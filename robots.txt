@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://show-hn-cyoda-go-application-platform-in-go-oj5r68y2f.vercel.app/sitemap.xml
